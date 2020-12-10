@@ -13,8 +13,6 @@ Our team used the divide and conquer method to complete the task. Nick developed
 
 Vincent and Hayden spent their time developing developing cases in [TinkerCAD](https://www.tinkercad.com/). They discovered ways to preserve as much material as possible, while still having a strong structure. They also left room for the Micro:Bit sender to be exposed for calibrations. They also provided valuable brainstorming ideas to Nick of ideas for the code.
 
-### TO DO: ADD Drawing of Your Initial Design, Flow Chart, and Photos of Prototypes
-
 ![flow chart](flowchart.jpg)
 ![initial design](initial%20design.jpg)
 ![failed design](IMG_0164.JPG)
@@ -26,6 +24,6 @@ The code so far is successful, and improvements could be made to limit misreadin
 We have yet to have the availability to test our current case model, we also have a back up model that can be printed if our currently selected one does not come up to par. We expect a success however. **Improvements will be listed after testing.**
 
 **TO DO: ADD IMAGES OF 3D MODELS AND PYTHON CODE UPON RETURN TO SCHOOL**
-
+![Sender code](Screen Shot 2020-12-10 at 10.08.35 AM.png)
 
 
