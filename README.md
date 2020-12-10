@@ -22,7 +22,7 @@ Vincent and Hayden spent their time developing developing cases in [TinkerCAD](h
 The code so far is successful, and improvements could be made to limit misreadings of the data. Overall for the code, our team is happy with what we currently have. 
 
 We have yet to have the availability to test our current case model, we also have a back up model that can be printed if our currently selected one does not come up to par. We expect a success however. **Improvements will be listed after testing.**
-
+![3D model backup](Case.stl)
 ![Sender code](S_code.jpg)
 ![Reciever code](R_code.jpg)
 
