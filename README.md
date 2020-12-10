@@ -14,10 +14,10 @@ Our team used the divide and conquer method to complete the task. Nick developed
 Vincent and Hayden spent their time developing developing cases in [TinkerCAD](https://www.tinkercad.com/). They discovered ways to preserve as much material as possible, while still having a strong structure. They also left room for the Micro:Bit sender to be exposed for calibrations. They also provided valuable brainstorming ideas to Nick of ideas for the code.
 
 ### TO DO: ADD Drawing of Your Initial Design, Flow Chart, and Photos of Prototypes
-<!--
-![initial design, flow chart](annotated-CamScanner 11-24-2020 10.00.pdf)
-![Prototypes](
--->
+
+![flow chart](flowchart.jpeg)
+![initial design](initial_design.jpeg)
+
 
 # Reflections
 The code so far is successful, and improvements could be made to limit misreadings of the data. Overall for the code, our team is happy with what we currently have. 
