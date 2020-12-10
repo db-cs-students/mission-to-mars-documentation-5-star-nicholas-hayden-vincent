@@ -15,8 +15,8 @@ Vincent and Hayden spent their time developing developing cases in [TinkerCAD](h
 
 ### TO DO: ADD Drawing of Your Initial Design, Flow Chart, and Photos of Prototypes
 
-![flow chart](flowchart.jpeg)
-![initial design](initial_design.jpeg)
+![flow chart](flowchart.jpg)
+![initial design](initial%20design.jpg)
 
 
 # Reflections
