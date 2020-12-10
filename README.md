@@ -7,7 +7,7 @@ This sensor has of 2 functions: An accelerometer in the X, Y, and Z dimensions, 
 
 # Payload and Data example
 ![current prototype](IMG_0165.JPG)
-![example of data](
+![example of data](data.jpg)
 # Overview
 Our team used the divide and conquer method to complete the task. Nick developed the majority of the code using Microsoft's [MakeCode for Micro:Bits](https://makecode.microbit.org/), he used a radio system to communicate between the sender and reciever as explained in the above summary of "The Starred Sensor". Nick also provided some requirements to Vincent and Hayden for the development of the case, so it can function properly and be easily manipulated for calibrations.
 
@@ -23,7 +23,6 @@ The code so far is successful, and improvements could be made to limit misreadin
 
 We have yet to have the availability to test our current case model, we also have a back up model that can be printed if our currently selected one does not come up to par. We expect a success however. **Improvements will be listed after testing.**
 
-**TO DO: ADD IMAGES OF 3D MODELS AND PYTHON CODE UPON RETURN TO SCHOOL**
 ![Sender code](S_code.jpg)
 ![Reciever code](R_code.jpg)
 
