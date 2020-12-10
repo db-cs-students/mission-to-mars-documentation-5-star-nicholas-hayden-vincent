@@ -17,6 +17,7 @@ Vincent and Hayden spent their time developing developing cases in [TinkerCAD](h
 
 ![flow chart](flowchart.jpg)
 ![initial design](initial%20design.jpg)
+![failed design](
 
 
 # Reflections
