@@ -24,6 +24,6 @@ The code so far is successful, and improvements could be made to limit misreadin
 We have yet to have the availability to test our current case model, we also have a back up model that can be printed if our currently selected one does not come up to par. We expect a success however. **Improvements will be listed after testing.**
 
 **TO DO: ADD IMAGES OF 3D MODELS AND PYTHON CODE UPON RETURN TO SCHOOL**
-![Sender code](Screen Shot 2020-12-10 at 10.08.35 AM.png)
-
+![Sender code](S%20code)
+![Reciever code](R_code)
 
