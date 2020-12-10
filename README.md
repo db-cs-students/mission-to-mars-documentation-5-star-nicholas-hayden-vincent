@@ -6,8 +6,8 @@
 This sensor has of 2 functions: An accelerometer in the X, Y, and Z dimensions, as well as a compass. The sensor consists of 2 Micro:Bits, one being the sender(which must be calibrated before use), and the receiver. The Sender will be in the case as payload, and will send the data to the receiever over a radio signal. The reciever will then, if connected to a computer or other device, graph the data which can be downloaded at any time. 
 
 # Payload and Data example
-TODO: FIX PICS LATER
-
+![current prototype](IMG_0165.JPG)
+![example of data](
 # Overview
 Our team used the divide and conquer method to complete the task. Nick developed the majority of the code using Microsoft's [MakeCode for Micro:Bits](https://makecode.microbit.org/), he used a radio system to communicate between the sender and reciever as explained in the above summary of "The Starred Sensor". Nick also provided some requirements to Vincent and Hayden for the development of the case, so it can function properly and be easily manipulated for calibrations.
 
@@ -17,7 +17,7 @@ Vincent and Hayden spent their time developing developing cases in [TinkerCAD](h
 
 ![flow chart](flowchart.jpg)
 ![initial design](initial%20design.jpg)
-![failed design](
+![failed design](IMG_0164.JPG)
 
 
 # Reflections
